@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Hemant Yadav | Frontend Developer Portfolio</title>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap" rel="stylesheet">
+  <!-- <style>
+  
+  </style> -->
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+  <div id="particles"></div>
+  <header>
+    <h1>Hemant Yadav</h1>
+    <nav>
+      <div class="hamburger" onclick="toggleMenu()">
+        <span></span>
+        <span></span>
+        <span></span>
+      </div>
+      <div class="nav-menu">
+        <a href="e (3).pdf">About</a>
+        <a href="https://www.linkedin.com/in/hemant-yadav-45b582374">LinkedIn</a>
+        <a href="https://github.com/hemantydvv">Projects</a>
+        <a href="#contact">Contact</a>
+      </div>
+    </nav>
+  </header>
+
+  <section id="hero">
+    <h2>Hello, I'm Hemant 👋</h2>
+    <p>Frontend Developer crafting seamless, responsive, and engaging web experiences with JavaScript, React, and modern
+      web technologies.</p>
+  </section>
+
+  <section id="about">
+    <h2>About Me</h2>
+    <p>I'm a dedicated Frontend Developer with a passion for building clean, user-friendly interfaces. Skilled in
+      JavaScript, React, HTML, and CSS, I focus on transforming ideas into interactive digital experiences. I hold a
+      B.Tech in Electronics and Communication Engineering and am committed to continuous learning and innovation. <a
+        href="e (3).pdf">View Resume</a></p>
+  </section>
+
+  <section id="skills">
+    <h2>Skills</h2>
+    <div class="skills-grid">
+      <div class="skill" data-progress="90">
+        <h3>Frontend Development</h3>
+        <p>Proficient in HTML, CSS, JavaScript, and React for building responsive and dynamic user interfaces.</p>
+        <div class="progress-bar">
+          <div class="progress"></div>
+        </div>
+      </div>
+      <div class="skill" data-progress="80">
+        <h3>Tools & Technologies</h3>
+        <p>Experienced with Git, VS Code, and modern development workflows for efficient project management.</p>
+        <div class="progress-bar">
+          <div class="progress"></div>
+        </div>
+      </div>
+      <div class="skill" data-progress="70">
+        <h3>Soft Skills</h3>
+        <p>Strong problem-solving, communication, and teamwork abilities to deliver high-quality projects.</p>
+        <div class="progress-bar">
+          <div class="progress"></div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section id="projects">
+    <h2>My Projects</h2>
+    <div class="project-grid">
+      <div class="project">
+        <h3>GitHub Projects</h3>
+        <p>Collection of web projects built using HTML, CSS, and JavaScript, showcasing responsive design and
+          functionality.</p>
+        <a href="https://github.com/hemantydvv">View Projects</a>
+      </div>
+      <div class="project">
+        <h3>LinkedIn Profile</h3>
+        <p>Explore my professional journey, including education, certifications, and hobbies, on my LinkedIn profile.
+        </p>
+        <a href="https://www.linkedin.com/in/hemant-yadav-45b582374">Visit Profile</a>
+      </div>
+    </div>
+  </section>
+
+  <section id="education">
+    <h2>Education</h2>
+    <div class="education-grid">
+      <div class="education">
+        <h3>B.Tech in Computer Science & Engineering</h3>
+        <p>Lucknow Institute of Technology, Lucknow affiliated by AKTU (2022 - 2026)</p>
+        <p>Graduated with a focus on technical skills and problem-solving in engineering disciplines.</p>
+      </div>
+      <div class="education">
+        <h3>Intermediate (12th Grade)</h3>
+        <p>Shri Jai Narayan (KKC) Inter College (2021 - 2022)</p>
+        <p>Completed with a strong foundation in Physics, Chemistry, and Mathematics.</p>
+      </div>
+    </div>
+  </section>
+
+  <section id="certifications">
+    <h2>Certifications</h2>
+    <div class="certifications-grid">
+      <div class="certification">
+        <h3>Portfolio Development Certificate </h3>
+        <p>Completed coursework in HTML, CSS, and JavaScript to build modern web applications.</p>
+        <a href="buildfolio.pdf">View</a>
+      </div>
+      <div class="certification">
+        <h3> Bussiness Development & Entrepreneurship submit </h3>
+        <p>participation in an international-level entrepreneurship summit organized by IIM Bangalore.</p>
+        <a href="bussiness and entrepreneurshhip.pdf">View </a>
+      </div>
+    </div>
+  </section>
+
+  <section id="hobbies">
+    <h2>Hobbies</h2>
+    <div class="hobbies-grid">
+      <div class="hobby">
+        <h3>Reading</h3>
+        <p>Enjoy exploring technical blogs and books to stay updated with industry trends.</p>
+      </div>
+      <div class="hobby">
+        <h3>Cricket</h3>
+        <p>Passionate about playing and watching cricket, fostering teamwork and strategy.</p>
+      </div>
+      <div class="hobby">
+        <h3>Traveling</h3>
+        <p>Love exploring new places to gain inspiration and broaden perspectives.</p>
+      </div>
+    </div>
+  </section>
+
+  <section id="contact">
+    <h2>Contact Me</h2>
+    <form id="contact-form">
+      <div class="form-group">
+        <input type="text" id="name" placeholder="Your Name" required aria-label="Your Name" />
+        <span class="error-message" id="name-error"></span>
+      </div>
+      <div class="form-group">
+        <input type="email" id="email" placeholder="Your Email" required aria-label="Your Email" />
+        <span class="error-message" id="email-error"></span>
+      </div>
+      <div class="form-group">
+        <textarea id="message" placeholder="Your Message" rows="5" required aria-label="Your Message"></textarea>
+        <span class="error-message" id="message-error"></span>
+      </div>
+      <button type="submit">Send Message</button>
+    </form>
+  </section>
+
+  <footer>
+    <p>© 2025 Hemant Yadav. All rights reserved.</p>
+  </footer>
+
+  <script src="https://cdn.jsdelivr.net/npm/particles.js@2.0.0/particles.min.js"></script>
+  <script src="script.js">
+   
+  </script>
+</body>
+
+</html>

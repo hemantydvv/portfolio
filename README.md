@@ -1,31 +1,8 @@
 # Hemant Yadav's Portfolio
-
 Welcome to my digital showcase! 🚀 I'm a frontend developer from New Delhi, passionate about crafting responsive web experiences with HTML, CSS, and JavaScript. This site highlights my projects, skills, and journey in web development.
 
 ## Live Demo
 - [View Portfolio](https://hemantportfolio.free.nf/) *(Deploy on web server)*
-
-## About Me
-A quick intro: web enthusiast turning ideas into interactive sites. Inspired by real-world clones and community tools, I focus on clean, user-friendly designs. When not coding, I'm exploring Haryana's vibes or tweaking games.
-
-- **Location**: New Delhi, India
-- **Interests**: Web clones, JS games, responsive UIs
-- **Connect**: [LinkedIn](https://linkedin.com/in/hemantydvv) | [Email](hemantyadavhy0672273@gmailcom) | [GitHub](https://github.com/hemantydvv)
-
-## Featured Projects
-Here's a spotlight on my top work—click to explore!
-
-| Project | Description | Tech Stack | Link |
-|---------|-------------|------------|------|
-| **Zomato Clone** | Responsive restaurant discovery site with search, menus, and cart. | HTML, CSS, JS | [Repo](https://github.com/hemantydvv/zomato-clone-website) |
-| **INLD About Page** | Informative site for Haryana's political party, with timeline and vision. | HTML, CSS, GitHub Pages | [Live](https://hemantydvv.github.io/INLD-about-page/) |
-| **Tic-Tac-Toe Game** | Classic 2-player JS game with win detection and reset. | Vanilla JS | [Repo](https://github.com/hemantydvv/tic-tac-toe) |
-| **Personal Portfolio** | This site! Dynamic showcase with smooth navigation. | HTML, CSS, JS | [Live](# Hemant Yadav's Portfolio
-
-Welcome to my digital showcase! 🚀 I'm a frontend developer from New Delhi, passionate about crafting responsive web experiences with HTML, CSS, and JavaScript. This site highlights my projects, skills, and journey in web development.
-
-## Live Demo
-- [View Portfolio](https://hemantportfolio.free.nf/) *(Deploy via GitHub Pages—see Setup below)*
 
 ## About Me
 A quick intro: Frontend enthusiast turning ideas into interactive sites. Inspired by real-world clones and community tools, I focus on clean, user-friendly designs. When not coding, I'm exploring Haryana's vibes or tweaking games.

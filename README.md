@@ -42,7 +42,7 @@ Here's a spotlight on my top work—click to explore!
 | **Zomato Clone** | Responsive restaurant discovery site with search, menus, and cart. | HTML, CSS, JS | [Repo](https://github.com/hemantydvv/zomato-clone-website) |
 | **INLD About Page** | Informative site for Haryana's political party, with timeline and vision. | HTML, CSS, GitHub Pages | [Live](https://hemantydvv.github.io/INLD-about-page/) |
 | **Tic-Tac-Toe Game** | Classic 2-player JS game with win detection and reset. | Vanilla JS | [Repo](https://github.com/hemantydvv/tic-tac-toe) |
-| **Personal Portfolio** | This site! Dynamic showcase with smooth navigation. | HTML, CSS, JS | [Live](https://hemantportfolio.free.nf/) |
+| **Personal Portfolio** | This site! Dynamic showcase with smooth navigation. | HTML, CSS, JS PHP MY SQL| [Live](https://hemantportfolio.free.nf/) |
 
 *(Add more rows as you build—e.g., your other games or clones.)*
 

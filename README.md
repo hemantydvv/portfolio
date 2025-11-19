@@ -3,7 +3,7 @@
 Welcome to my digital showcase! 🚀 I'm a frontend developer from New Delhi, passionate about crafting responsive web experiences with HTML, CSS, and JavaScript. This site highlights my projects, skills, and journey in web development.
 
 ## Live Demo
-- [View Portfolio](https://hemantydvv.github.io/portfolio/) *(Deploy via GitHub Pages—see Setup below)*
+- [View Portfolio](https://hemantportfolio.free.nf/) *(Deploy via GitHub Pages—see Setup below)*
 
 ## About Me
 A quick intro: Frontend enthusiast turning ideas into interactive sites. Inspired by real-world clones and community tools, I focus on clean, user-friendly designs. When not coding, I'm exploring Haryana's vibes or tweaking games.
